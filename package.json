@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "description": "Congratulations! You have been given 10 Testnet Stellar Lumens, and your task is to send 8.5 TXLM back to us using the return address and memo id below.",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "stellar-sdk": "^2.0.1"
+  }
+}
